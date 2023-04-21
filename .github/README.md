@@ -40,7 +40,7 @@
     ♥️𝐃𝐄𝐏𝐋𝐎𝐘 ᴏɴ ʜᴇʀᴏᴋᴜ♥️
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/BadshahAk/ansi_Ro_bot"> <img src="https://img.shields.io/badge/💜𝗗𝗘𝗣𝗟𝗢𝗬 ᴏɴ ʜᴇʀᴏᴋᴜ💜-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/BadshahAk/AnsiRobot"> <img src="https://img.shields.io/badge/💜𝗗𝗘𝗣𝗟𝗢𝗬 ᴏɴ ʜᴇʀᴏᴋᴜ💜-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 💛━━━━━━━💚━━━━━━━━━♥️
 <h3 align="center">
      Special Credits 💖
