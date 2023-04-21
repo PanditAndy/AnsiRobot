@@ -9,7 +9,7 @@ from telethon import __version__ as s
 from AnsiRobot import OWNER_ID, dispatcher
 from AnsiRobot import pbot as client
 
-Ansi = "https://te.legra.ph/file/08a3d942eed957c6f3c0c.jpg"
+Ansi = "https://te.legra.ph/file/ab836a124f9484c367697.jpg"
 
 
 @client.on_message(filters.command(["repo", "source"]))
@@ -30,11 +30,11 @@ async def repo(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "•𝐁𝐫𝐚𝐡𝐦𝐚𝐧_𝐀𝐧𝐚𝐧𝐝",f"tg://user?id={OWNER_ID}"
+                        "•𝐁𝐫𝐚𝐡𝐦𝐚𝐧_𝐀𝐧𝐚𝐧𝐝",f"https://t.me/pandit_Andy"
                     ),
                     InlineKeyboardButton(
                         "• ʀᴇᴘᴏ •",
-                        url="https://github.com/BadshahAk/ansi_Ro_bot",
+                        url="https://github.com/BadshahAk/AnsiRobot",
                     ),
                 ]
             ]
