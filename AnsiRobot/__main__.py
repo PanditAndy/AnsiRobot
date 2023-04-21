@@ -79,7 +79,7 @@ PM_START_TEXT = """
 *ʜᴇʏ* {} , [.](https://te.legra.ph/file/927d35042ac08888a5610.jpg)
 ╔♥️♥️♥️❰★𝐖𝐞𝐥𝐥𝐜𝐨𝐦𝐞★❱♥️♥️♥️❍♡
 ║
-║♡♡♡♡♡♡♡♡♡♡┣⪼ {} 
+║♡♡♡𝑨𝒏𝒅𝒚♡♡♡┣⪼ {} 
 ║
 ╚♥️♥️♥️❰★𝐖𝐞𝐥𝐥𝐜𝐨𝐦𝐞★❱♥️♥️♥️❍♡
 ➻ ƒυℓℓу ♦️ ѕмσσтн 🧶 αη∂ ¢υтє🧸 мαмαgємєηт💖 вσт🔰 ƒσя ¢αηтяσℓ♥️ єνєяутнιηg.
@@ -87,7 +87,7 @@ PM_START_TEXT = """
 ∂ση'т αѕк ƒσя мυѕι¢ ƒєтυяєѕ😍........тσυ¢н ση мυѕι¢ вυттση αη∂ υѕє #∂ιℓ вσт♥️
 ♥️╔═════ஜ۩۞۩ஜ════╗♥️
       
-          [♥️ι ℓσνє уσυ ♥️](https://t.me/pandit_Andy) 
+♥️═══[♥️ι ℓσνє уσυ ♥️](https://t.me/pandit_Andy) 
 
 ♥️╚═════ஜ۩۞۩ஜ════╝♥️
 ──────────────────
@@ -113,6 +113,9 @@ buttons = [
     [
         InlineKeyboardButton(text="♥️ᥴ᥅ꫀꪖꪻꪮ᥅♥️", url=f"tg://user?id={OWNER_ID}"),
         InlineKeyboardButton(text="♥️мυѕι¢♥️", url=f"https://t.me/Alone_Dil_bot"),
+    ],
+    [
+        InlineKeyboardButton(text="♥️𝙎𝙪𝙥𝙚𝙧🔸𝙎𝙤𝙪𝙧𝙘𝙚♥️", url="https://github.com/BadshahAk/AnsiRobot"),
     ],
 ]
 
