@@ -245,8 +245,9 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_photo(
-            START_IMG, caption= "<code>Hi👋 I'm Ansi ♥️→ ReD Themed bot🌹\nI am Awake Since</code>: <code>{}</code>".format(
-                uptime            
+            START_IMG,
+            caption="Hi👋 I'm Ansi ♥️→ ReD Themed bot🌹  !\n<b>ɪ ᴅɪᴅɴ'ᴛ sʟᴇᴘᴛ sɪɴᴄᴇ​:</b> <code>{}</code>".format(
+                uptime
             ),
             parse_mode=ParseMode.HTML,
             reply_markup=InlineKeyboardMarkup(
