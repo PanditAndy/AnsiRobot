@@ -245,12 +245,22 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_photo(
-            START_IMG,
-            caption="ɪ ᴀᴍ ᴀʟɪᴠᴇ ʙᴀʙʏ  !\n<b>ɪ ᴅɪᴅɴ'ᴛ sʟᴇᴘᴛ sɪɴᴄᴇ​:</b> <code>{}</code>".format(
-                uptime
-            ),
-            parse_mode=ParseMode.HTML,
-        )
+            START_IMG, caption= "<code>Hi👋 I'm Ansi ♥️→ ReD Themed bot🌹\nI am Awake Since</code>: <code>{}</code>".format(
+                uptime            
+            ),
+            parse_mode=ParseMode.HTML,
+            reply_markup=InlineKeyboardMarkup(
+                [
+                    [InlineKeyboardButton(text="❤︎Mᴏᴍ♡︎", url="t.me/andy_ki_jaan"),
+                     InlineKeyboardButton(text="♡︎Dᴀᴅ❤︎", url="https://t.me/pandit_Andy"),
+                    ],
+                    [InlineKeyboardButton(text="⤹★ CHATTINGxGROUP ★⤸", url="https://t.me/CHATTINGxGROUP"),                     
+                    ],
+                    [InlineKeyboardButton(text="🎈α∂∂ мє ιη уσυ ¢нαт🎈", url="https://t.me/AnsiRobot?startgroup=true"),                     
+                    ],
+                ],
+            ),
+        )
 
 
 def error_handler(update, context):
