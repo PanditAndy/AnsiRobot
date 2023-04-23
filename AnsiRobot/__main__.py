@@ -84,7 +84,7 @@ PM_START_TEXT = """
 ╚♥️♥️♥️❰★𝐖𝐞𝐥𝐥𝐜𝐨𝐦𝐞★❱♥️♥️♥️❍♡
 ➻ ƒυℓℓу ♦️ ѕмσσтн 🧶 αη∂ ¢υтє🧸 мαмαgємєηт💖 вσт🔰 ƒσя ¢αηтяσℓ♥️ єνєяутнιηg.
 тнιѕ вσт σηℓу ƒσя мαηαgємєηт😊
-∂ση'т αѕк ƒσя мυѕι¢ ƒєтυяєѕ😍........в¢z ι нανє ησ νρѕ😭 αη∂ ησ мσηєу😭
+∂ση'т αѕк ƒσя мυѕι¢ ƒєтυяєѕ😍........в¢z тσυ¢н ση мυѕι¢ вυттση♥️ αη∂ ¢нє¢к мυѕι¢ ¢σммαη∂ѕ💯
 ♥️╔═════ஜ۩۞۩ஜ════╗♥️
       
 ♥️═══[♥️ι ℓσνє уσυ ♥️](https://t.me/pandit_Andy) 
@@ -452,7 +452,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
     if query.data == "Music_":
         query.message.edit_text(
             text=f"""
- **👀𝐇𝐞𝐲 𝐁𝐚𝐛𝐲 🖤\n\n🌺𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 {dispatcher.bot.first_name} 🍷\n\n🌹𝐈 𝐀𝐦 𝐀𝐧 📀 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 🎭 𝐀𝐧𝐝 🌱 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 🌼 𝐕𝐂 🍄 𝐏𝐥𝐚𝐲𝐞𝐫 📣 𝐖𝐢𝐭𝐡 🕙 24𝐱7 🌀 𝐀𝐜𝐭𝐢𝐯𝐞 » 𝐅𝐨𝐫 🗨️ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 ♨️ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🎸 𝐀𝐧𝐝 🏓 𝐆𝐫𝐨𝐮𝐩𝐬 🎻\n\n💐𝐅𝐞𝐞𝐥 😍 𝐋𝐚𝐠 📍 𝐅𝐫𝐞𝐞 😇 𝐓𝐨 🕊️ 𝐀𝐝𝐝 𝐌𝐞 𝐈𝐧 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 🤖 𝐀𝐧𝐝 🩸 𝐄𝐧𝐣𝐨𝐲 ❥︎ 𝐒𝐮𝐩𝐞𝐫 💥 𝐇𝐢𝐠𝐡 💫 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 🦞 𝐀𝐮𝐝𝐢𝐨 🎧 𝐀𝐧𝐝 🔊 𝐕𝐢𝐝𝐞𝐨 🌷\n\n☆............𝙱𝚈 » ♥️Ansi♥️............☆ 💞** 
+ **ωєℓ¢σмє вυ∂∂у\n\n♥️ωєℓ¢σмє тσ👉 {dispatcher.bot.first_name} 🍷\n\n♥️ι αм ƒυℓℓу α∂ωαη¢є αη∂ ѕυρєя ƒαѕт вσт ωιтн 24*7 ωσякιηg ѕєяνєя » υρ∂αтє∂ вσт αη∂ ∂αιℓу ηєω ¢σммαη∂ αη∂ ∂αιℓу ηєω ƒєтυяєѕ υρgяα∂є ση вσт🎻\n\n💐\n\n☆.....♥️.......𝙱𝚈 » ♥️Ansi♥️.......♥️.....☆ 💞** 
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -461,71 +461,71 @@ def Music_about_callback(update: Update, context: CallbackContext):
                     [
                         
                 InlineKeyboardButton(
-                    text="🍁αԃɱιɳ🍁",
+                    text="♥️αԃɱιɳ♥️",
                     callback_data="Music_1",
                 ),
                 InlineKeyboardButton(
-                    text="🔺αυƭɦ🔺",
+                    text="♥️αυƭɦ♥️",
                     callback_data="Music_2",
                 ),
             
                 InlineKeyboardButton(
-                    text="♨️вℓσ¢к♨️",
+                    text="♥️вℓσ¢к♥️",
                     callback_data="Music_3",
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    text="📣ɠ¢αʂƭ📣",
+                    text="♥️ɠ¢αʂƭ♥️",
                     callback_data="Music_4",
                 ),
                 InlineKeyboardButton(
-                    text="🚫ɠɓαɳ🚫",
+                    text="♥️ɠɓαɳ♥️",
                     callback_data="Music_5",
                 ),
                 InlineKeyboardButton(
-                    text="🍷ℓყɾเ¢ʂ🍷",
+                    text="♥️ℓყɾเ¢ʂ♥️",
                     callback_data="Music_6",
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    text="🎙️քℓαყℓเʂƭ🎙️",
+                    text="♥️քℓαყℓเʂƭ♥️",
                     callback_data="Music_7",
                 ),
                 InlineKeyboardButton(
-                    text="🎸ѵσเ¢ε-¢ɦαƭ🎸",
+                    text="♥️ѵσเ¢ε-¢ɦαƭ♥️",
                     callback_data="Music_8",
                 ),
             ],
             [
            
                 InlineKeyboardButton(
-                    text="🕹️ρℓαყ🕹️",
+                    text="♥️ρℓαყ♥️",
                     callback_data="Music_9",
                 ),
             
             
                 InlineKeyboardButton(
-                    text="🍸ʂ𝖚∂σ🍸",
+                    text="♥️ʂ𝖚∂σ♥️",
                     callback_data="Music_10",
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    text="⚜️SƬΛᏒƬ⚜️",
+                    text="♥️💜♥️SƬΛᏒƬ♥️💜♥️",
                     callback_data="Music_11",
                 ),
             ],
                     [
-                        InlineKeyboardButton(text="✯ вαϲк ✯", callback_data="mukesh_back"),
+                        InlineKeyboardButton(text="♥️ вαϲк ♥️", callback_data="Ansi_back"),
                     ],
                 ]
            ),
         )
     elif query.data == "Music_1":
         query.message.edit_text(
-            text=f"*» 🎄ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ🎄 «*"
+            text=f"*» 💜ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ💜 «*"
             f"""
 
 
@@ -557,7 +557,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
         )
     elif query.data == "Music_2":
         query.message.edit_text(
-            text=f"*» 🎄ᴀᴜᴛʜ ᴜsᴇʀs🎄 «*"
+            text=f"*» 💜ᴀᴜᴛʜ ᴜsᴇʀs💜 «*"
             f"""
 
 ᴀᴜᴛʜ ᴜsᴇʀs ᴄᴀɴ ᴜsᴇ ᴀᴅᴍɪɴ ʀɪɢʜᴛs ɪɴ ᴛʜᴇ ʙᴏᴛ ᴡɪᴛʜᴏᴜᴛ ᴀᴅᴍɪɴ ʀɪɢʜᴛs ɪɴ ᴛʜᴇ ᴄʜᴀᴛ. [ᴀᴅᴍɪɴs ᴏɴʟʏ]
@@ -582,7 +582,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
         )
     elif query.data == "Music_3":
         query.message.edit_text(
-            text=f"*» 🎄ʙʟᴀᴄᴋʟɪsᴛ ᴄʜᴀᴛ🎄 «*"
+            text=f"*» 💜ʙʟᴀᴄᴋʟɪsᴛ ᴄʜᴀᴛ💜 «*"
             f""" 
 
 ʙʟᴀᴄᴋʟɪsᴛ ғᴇᴀᴛᴜʀᴇ [ᴏɴʟʏ ғᴏʀ sᴜᴅᴏᴇʀs]
@@ -616,7 +616,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
         )
     elif query.data == "Music_4":
         query.message.edit_text(
-            text=f"*» 🎄ʙʀᴏᴀᴅᴄᴀsᴛ ғᴇᴀᴛᴜʀᴇ🎄 «*"
+            text=f"*» 💜ʙʀᴏᴀᴅᴄᴀsᴛ ғᴇᴀᴛᴜʀᴇ💜 «*"
             f"""
 
 /broadcast , /gcast  [ᴍᴇssᴀɢᴇ ᴏʀ ʀᴇᴩʟʏ ᴛᴏ ᴀ ᴍᴇssᴀɢᴇ] : ʙʀᴏᴀᴅᴄᴀsᴛ ᴀ ᴍᴇssᴀɢᴇ ᴛᴏ sᴇʀᴠᴇᴅ ᴄʜᴀᴛs ᴏғ ᴛʜᴇ ʙᴏᴛ.
@@ -645,7 +645,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
         )
     elif query.data == "Music_5":
         query.message.edit_text(
-            text=f"*» 🎄ɢʙᴀɴ ғᴇᴀᴛᴜʀᴇ🎄 «*"
+            text=f"*» 💜ɢʙᴀɴ ғᴇᴀᴛᴜʀᴇ💜 «*"
             f"""
 
 /gban [ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ʀᴇᴩʟʏ ᴛᴏ ᴀ ᴄʜᴜᴛɪʏᴀ] : ɢʟᴏʙᴀʟʟʏ ʙᴀɴs ᴛʜᴇ ᴄʜᴜᴛɪʏᴀ ғʀᴏᴍ ᴀʟʟ ᴛʜᴇ sᴇʀᴠᴇᴅ ᴄʜᴀᴛs ᴀɴᴅ ʙʟᴀᴄᴋʟɪsᴛ ʜɪᴍ ғʀᴏᴍ ᴜsɪɴɢ ᴛʜᴇ ʙᴏᴛ.
@@ -668,7 +668,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
         )
     elif query.data == "Music_6":
         query.message.edit_text(
-            text=f"*» 🎄𝙻𝚈𝚁𝙸𝙲𝚂 & 𝚂𝙷𝙰𝚈𝚁𝙸 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂🎄 «*"
+            text=f"*» 💜𝙻𝚈𝚁𝙸𝙲𝚂 & 𝚂𝙷𝙰𝚈𝚁𝙸 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂💜 «*"
             f"""
 
 /loop [ᴅɪsᴀʙʟᴇ/ᴇɴᴀʙʟᴇ] ᴏʀ [ʙᴇᴛᴡᴇᴇɴ 1:10] 
@@ -698,7 +698,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
         )
     elif query.data == "Music_7":
         query.message.edit_text(
-            text=f"*» 🎄ᴩʟᴀʏʟɪsᴛs ғᴇᴀᴛᴜʀᴇ🎄 «*"
+            text=f"*» 💜ᴩʟᴀʏʟɪsᴛs ғᴇᴀᴛᴜʀᴇ💜 «*"
             f"""
 
 /playlist : ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴀᴠᴇᴅ ᴩʟᴀʏʟɪsᴛ ᴏɴ sᴇʀᴠᴇʀs.
@@ -721,7 +721,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
         )
     elif query.data == "Music_8":
         query.message.edit_text(
-            text=f"*» ⚡ ᴀᴄᴛɪᴠᴇ ᴠɪᴅᴇᴏᴄʜᴀᴛs ⚡ «*"
+            text=f"*» 💜 ᴀᴄᴛɪᴠᴇ ᴠɪᴅᴇᴏᴄʜᴀᴛs 💜 «*"
             f"""
 
 /activevoice : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ᴀᴄᴛɪᴠᴇ ᴠᴏɪᴄᴇᴄʜᴀᴛs ᴏɴ ᴛʜᴇ ʙᴏᴛ.
@@ -742,7 +742,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
         )
     elif query.data == "Music_9":
         query.message.edit_text(
-            text=f"*» 🎸 ᴩʟᴀʏ ғᴇᴀᴛᴜʀᴇ 🎸 «*"
+            text=f"*» 💜 ᴩʟᴀʏ ғᴇᴀᴛᴜʀᴇ 💜 «*"
             f"""
 
 •c sᴛᴀɴᴅs ғᴏʀ ᴄʜᴀɴɴᴇʟ ᴩʟᴀʏ.
@@ -769,7 +769,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
         )
     elif query.data == "Music_10":
         query.message.edit_text(
-            text=f"*» 🌲ɢᴇᴛ sᴛᴀʀᴛᴇᴅ ᴡɪᴛʜ ʙᴏᴛ🌲 «*"
+            text=f"*» 💜ɢᴇᴛ sᴛᴀʀᴛᴇᴅ ᴡɪᴛʜ ʙᴏᴛ💜 «*"
             f"""
 
 🥶 ʜᴇʀᴏᴋᴜ :
@@ -805,7 +805,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
         )
     elif query.data == "Music_11":
         query.message.edit_text(
-            text=f"*» 🌲ɢᴇᴛ sᴛᴀʀᴛᴇᴅ ᴡɪᴛʜ ʙᴏᴛ🌲 «*"
+            text=f"*» 💜ɢᴇᴛ sᴛᴀʀᴛᴇᴅ ᴡɪᴛʜ ʙᴏᴛ💜 «*"
             f"""
 
 /start : sᴛᴀʀᴛs ᴛʜᴇ ᴍᴜsɪᴄ ʙᴏᴛ.
