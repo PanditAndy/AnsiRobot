@@ -250,16 +250,6 @@ def start(update: Update, context: CallbackContext):
                 uptime
             ),
             parse_mode=ParseMode.HTML,
-            reply_markup=InlineKeyboardMarkup(
-                
-                    [InlineKeyboardButton(text="⤹★ A ★⤸", url="t.me/pandit_Andy"),
-                     InlineKeyboardButton(text="⤹★ K ★⤸", url="https://t.me/Its_andy_ki_jaan"),
-                    ],
-                    [
-                    [InlineKeyboardButton(text="🎈α∂∂ мє ιη уσυ ¢нαт🎈", url="https://t.me/AnsiRobot?startgroup=true"),
-                    ],
-                
-            ),
         )
 def error_handler(update, context):
     """Log the error and send a telegram message to notify the developer."""
