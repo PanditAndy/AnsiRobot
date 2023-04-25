@@ -24,7 +24,7 @@
 💛━━━━━━━💚━━━━━━━━━♥️
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF5A13&lines=♥️Ansi♥️+is+Best+Bot+with+♥️Love♥️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=♥️Ansi♥️+is+Best+Bot+with+♥️Love♥️)](https://git.io/typing-svg)
 
 💛━━━━━━━💚━━━━━━━━━♥️
 ### ♥️OWNER♥️
