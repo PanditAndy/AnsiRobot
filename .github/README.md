@@ -10,12 +10,9 @@
 
 
 💛━━━━━━━━💚━━━━━━━━♥️
-
-
 <h1 align="center">
 <a href="https://telegram.dog/AnsiRobot">❦𝙰𝚗𝚜𝚒࿐☆​​​​​​​​​​</a>
 </h1>
-
 💛━━━━━━━━💚━━━━━━━━♥️
 
 
@@ -25,9 +22,9 @@
 </p>
 
 💛━━━━━━━💚━━━━━━━━━♥️
-### OWNER⚜️
-</p>
-<p align="center"><a href="https://t.me/Brahman_Anand"><img src="https://te.legra.ph/file/0654b1c388625ca809126.jpg" width="400"></a></p>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235000F7&lines=♥️Ansi♥️+is+Best+Bot+with+♥️Love♥️)](https://git.io/typing-svg)
 
 💛━━━━━━━💚━━━━━━━━━♥️
 
