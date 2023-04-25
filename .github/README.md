@@ -18,16 +18,24 @@
 
 
 <p align="center">
-  <img src="https://te.legra.ph/file/d5f6796456709ff9ec758.jpg">
+  <img src="https://te.legra.ph/file/005a6dff4d0bc7237b739.jpg">
 </p>
 
 💛━━━━━━━💚━━━━━━━━━♥️
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235000F7&lines=♥️Ansi♥️+is+Best+Bot+with+♥️Love♥️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF5A13&lines=♥️Ansi♥️+is+Best+Bot+with+♥️Love♥️)](https://git.io/typing-svg)
 
 💛━━━━━━━💚━━━━━━━━━♥️
+### ♥️OWNER♥️
+<h1 align="center">
+<a href="https://telegram.dog/pandit_Andy">〆 Anand ヅ </a>
+</h1>
+💛━━━━━━━💚━━━━━━━━━♥️
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235000F7&multiline=true&height=150&lines=Ansi♥️+is+a+python+based+Bot+♥️;New+Features+Installed.+you+use;bot+for+manage+Group+play;song+chatbot+and+many+More+features.+Red♥️;Heart+Themed+design+based.;this+bot+Credit+Goes+to+♥️SAGAR♥️.)](https://git.io/typing-svg)
+
+💛━━━━━━━💚━━━━━━━━━♥️
 
 <p align="center">
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
@@ -44,8 +52,8 @@
 </h3>
 
 <p align="center">
-<a href="https://t.me/itz_legend_coder"><img src="https://img.shields.io/badge/-Randi💯-Red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/@AnonymousX1025"><img src="https://img.shields.io/badge/-𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦-Green.svg?style=for-the-badge&logo=Telegram"></a>
+</h3>
+<a href="https://t.me/Honey_Singh_121"><img src="https://img.shields.io/badge/-♦️SAGAR TIWARI♦️-Blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 💛━━━━━━━💚━━━━━━━━━♥️
 <h3 align="center">
@@ -58,12 +66,4 @@
 - <b>[ʜᴀᴍᴋᴇʀ ᴄᴀᴛ](https://github.com/TheHamkerCat)  ➻  [ᴡɪʟʟɪᴀᴍ ʙᴜᴛᴄʜᴇʀ](https://github.com/TheHamkerCat/WilliamButcherBot) </b>
  
 <b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/BadshahAk/ansi_Ro_bot/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ   ❦𝙰𝚗𝚜𝚒࿐☆​​​​​​​​​​ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
-
-💛━━━━━━━💚━━━━━━━━━♥️
-<h3 align="center">
-      Music 🎶 Credits 💖
-</h3>
-<a href="https://t.me/Honey_Singh_121"><img src="https://img.shields.io/badge/-♦️SAGAR TIWARI♦️-Blue.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/TheYukki"><img src="https://img.shields.io/badge/-The Yukki-Blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
 💛━━━━━━━💚━━━━━━━━━♥️
