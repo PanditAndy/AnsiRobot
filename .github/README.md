@@ -27,11 +27,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=♥️Ansi♥️+is+Best+Bot+with+♥️Love♥️)](https://git.io/typing-svg)
 
 💛━━━━━━━💚━━━━━━━━━♥️
-### ♥️OWNER♥️
-<h1 align="center">
-<a href="https://telegram.dog/pandit_Andy">〆 Anand ヅ </a>
-</h1>
-💛━━━━━━━💚━━━━━━━━━♥️
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&multiline=true&height=150&lines=Ansi♥️+is+a+python+based+Bot+♥️;New+Features+Installed.+you+use;bot+for+manage+Group+play;song+chatbot+and+many+More+features.+Red♥️;Heart+Themed+design+based.;this+bot+Credit+Goes+to+♥️SAGAR♥️.)](https://git.io/typing-svg)
 
